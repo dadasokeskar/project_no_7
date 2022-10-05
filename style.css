@@ -1,0 +1,27 @@
+.one{
+    background-color:rgb(158, 210, 192);
+    border-style: dotted;
+    border-width:2px;
+}
+#head1{
+    color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#para1{
+    font-style: italic;
+    color: orange;
+}
+.two{
+    background-color: rgb(237, 195, 231);
+}
+#head2{
+    color: blueviolet;
+    font-style: bold;
+}
+#para2{
+    font-style: italic;
+    color: green;
+}
+#span{
+    color: brown;
+}
